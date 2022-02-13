@@ -13,6 +13,5 @@
     </header>
 	<h2>Sockets</h2>
 	<p>En este aplicativo se verá el funcionamiento de intercambio de mensajes (chat) mediante Cliente/Servidor, haciendo uso de Sockets TCP. </p>
-	
  </body>
 </html>
