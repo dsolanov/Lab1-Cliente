@@ -2,15 +2,22 @@
 
 <h1>Sockets</h1>
 
-	<p>
-		En este aplicativo se verá el funcionamiento de intercambio de mensajes (chat) mediante Cliente/Servidor, haciendo uso de Sockets TCP.
-	</p>
+	<p> En este aplicativo se verá el funcionamiento de intercambio de mensajes (chat) mediante Cliente/Servidor, haciendo uso de Sockets TCP. </p>
 
-<h2> ¿Como se ejecuta?</h2>
+<!DOCTYPE html>
+<html lang="es">
 
-	<p>
-		El servidor estará a la espera de que un Cliente se conecte a el.
-		Una vez el cliente haya logrado la conexion, el servidor le devolverá un mensaje de bienvenida,
-		 y cuando este le de la bienvenida el cliente tambien responderá automaticamente.
-	</p>
+ <head>
+   <meta charset="UTF-8">
+   <title>Titulo del Documento</title>
+ </head>
 
+ <body>
+    <header>
+       <h1>Bienvenido</h1>
+    </header>
+    <p>
+       Hola al mundo de HTML5
+    </p>
+ </body>
+</html>
