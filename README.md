@@ -1,9 +1,5 @@
 # Lab1-Cliente
 
-<h1>Sockets</h1>
-
-	<p> En este aplicativo se verá el funcionamiento de intercambio de mensajes (chat) mediante Cliente/Servidor, haciendo uso de Sockets TCP. </p>
-
 <!DOCTYPE html>
 <html lang="es">
 
