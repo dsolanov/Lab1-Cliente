@@ -9,15 +9,15 @@
 
  <head>
    <meta charset="UTF-8">
-   <title>Titulo del Documento</title>
+   <title>Sockets</title>
  </head>
 
  <body>
     <header>
        <h1>Bienvenido</h1>
     </header>
-    <p>
-       Hola al mundo de HTML5
-    </p>
+	<h2>Sockets</h2>
+	<p>En este aplicativo se verá el funcionamiento de intercambio de mensajes (chat) mediante Cliente/Servidor, haciendo uso de Sockets TCP. </p>
+	
  </body>
 </html>
