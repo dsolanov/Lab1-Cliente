@@ -1,4 +1,4 @@
-# Lab1-Cliente
+# Bienvenido
 
 <!DOCTYPE html>
 <html lang="es">
@@ -9,9 +9,9 @@
 
  <body>
     <header>
-       <h1>Bienvenido</h1>
+       <h1>Sockets</h1>
     </header>
-	<h2>Sockets</h2>
+	<h2>definition</h2>
 	<p>En este aplicativo se verá el funcionamiento de intercambio de mensajes (chat) mediante Cliente/Servidor, haciendo uso de Sockets TCP. </p>
  </body>
 </html>
